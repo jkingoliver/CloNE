@@ -37,4 +37,4 @@ istio:
   weight: 100
 services:
   cloudant:
-    secretKeyRef: nodewebcloudant-cloudant-1563486047824
+    secretKeyRef: <REPLACEME>
